@@ -3,7 +3,7 @@ home: true
 icon: home
 title: Project home
 heroImage: /logo.svg
-heroText: Project name
+heroText: My Project name
 tagline: You can place the description of the project here.
 actions:
   - text: How to Use 💡
